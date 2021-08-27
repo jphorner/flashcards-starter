@@ -4,7 +4,7 @@ FlashCards is an app that quizzes users on questions surrounding front-end devel
 
 ## Demo
 
-
+![Kapture 2021-08-26 at 19 40 49](https://user-images.githubusercontent.com/82003147/131058071-a68e7522-e4f5-4836-bc62-569d380d629f.gif)
 
 ## Technologies Used
 

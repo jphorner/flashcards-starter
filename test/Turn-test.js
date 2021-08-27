@@ -66,6 +66,5 @@ describe('Turn', function() {
       const turn = new Turn("for loop", card);
       expect(turn.giveFeedback()).to.equal("incorrect!");
     });
-
   });
 });
